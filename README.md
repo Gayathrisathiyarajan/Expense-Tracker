@@ -1,7 +1,7 @@
 # Expense Tracker
 
 ## 📌 Project Overview
-A simple Expense Tracker web application built using Python, Django. It allows users to manage their daily expenses with full CRUD functionality, generate category-wise summary reports, and download expense data in Excel format.
+This is a simple and user-friendly Expense Tracker web application built using Python and Django. It helps users easily record, view, update, and manage their daily expenses. The application also provides category-wise expense summaries and allows users to download expense reports in Excel format.
 
 ---
 
