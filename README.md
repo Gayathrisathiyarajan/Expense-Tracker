@@ -109,4 +109,3 @@ http://127.0.0.1:8000/
 <img width="1919" height="1079" alt="expense tacker update" src="https://github.com/user-attachments/assets/658db667-7770-4947-83d0-a1f929f2cb46" />
 <img width="1919" height="1078" alt="expense tacker report" src="https://github.com/user-attachments/assets/65ed4979-6a45-445c-8772-12a7d5742642" />
 <img width="1918" height="1078" alt="expense tacker excel" src="https://github.com/user-attachments/assets/97f2c22f-383c-47a8-ab5c-23920670e8df" />
-board.png)
